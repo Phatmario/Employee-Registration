@@ -2,13 +2,13 @@ name: Create PR
 on:
   workflow_dispatch:
     inputs:
-      owner:
+      owner:Phatmario
         description: "Owner"
         required: true
-      username:
+      username:Phatmario
         description: "Username"
         required: true
-      forkName:
+      forkName:Employee-Registration
         description: "Fork Name"
         required: true
 jobs:
